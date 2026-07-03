@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Nicholas Cooper — software, photographs, prose. Chicago.">
+  <defs>
+    <style>
+      .bg { fill: #f6f3ec; }
+      .name { font-family: ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 800; font-size: 148px; fill: #1a1a1a; letter-spacing: -0.045em; }
+      .meta { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; font-size: 13px; fill: #6a6a66; letter-spacing: 0.06em; }
+      .accent { fill: #c83b2c; }
+      .rule { stroke: #d9d4c5; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1200" height="420"/>
+
+  <!-- Top metadata strip -->
+  <text class="meta" x="80" y="48">GITHUB · 2026 —</text>
+
+  <!-- Vermillion mark, upper right -->
+  <rect class="accent" x="1080" y="36" width="40" height="14"/>
+
+  <!-- Name, stacked -->
+  <text class="name" x="74" y="208">NICHOLAS</text>
+  <text class="name" x="74" y="338">COOPER</text>
+
+  <!-- Bottom rule -->
+  <line class="rule" x1="80" y1="372" x2="1120" y2="372"/>
+
+  <!-- Bottom metadata -->
+  <text class="meta" x="80" y="396">SOFTWARE · PHOTOGRAPHS · PROSE</text>
+  <text class="meta" x="1120" y="396" text-anchor="end">CHICAGO</text>
+</svg>
